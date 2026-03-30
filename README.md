@@ -1,5 +1,5 @@
 
-# Landing page - Bike shop :bike:
+# Landing page - Bikes shop :bike:
 Landing page for bike shop with smooth animations and well looking desing.
 
 
