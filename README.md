@@ -21,10 +21,15 @@ Copy repo from github
 ```bash
   git clone https://github.com/predator-bites/landing-bikes-page.git
 ```
+
+Install dependencies
+```bash
+  npm install
+```
     
 Start the project locally
 ```bash
-npm start
+  npm start
 ```
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-biletskiy-8a2717269)
