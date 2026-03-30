@@ -6,6 +6,8 @@ Landing page for bike shop with smooth animations and well looking desing.
 ## :sparkles: Introducing 
 
 Landing page created in educational reasons on HTML, SCSS/SASS. It was my first project and it helped to sort out code principles, improve practical knowledge of HTML, SCSS and skill to keep bigger amount of data in head.
+
+[Check landing page for free](https://predator-bites.github.io/landing-bikes-page/)
 ## :boom: Features
 
 - Dark theme
