@@ -1,19 +1,19 @@
 
-# Landing page - Bike shop
+# Landing page - Bike shop :bike:
 Landing page for bike shop with smooth animations and well looking desing.
 
 
-## Introducing 
+## :sparkles: Introducing 
 
 Landing page created in educational reasons on HTML, SCSS/SASS. It was my first project and it helped to sort out code principles, improve practical knowledge of HTML, SCSS and skill to keep bigger amount of data in head.
-## Features
+## :boom: Features
 
 - Dark theme
 - Smooth animations
 - Flexible design for phones, tables, computers
 - User friendly (icons, links)
 - Slide in design
-## Installation
+## :computer: Installation
 
 Copy repo from github
 ```bash
